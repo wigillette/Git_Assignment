@@ -1,2 +1,1 @@
 Hello world
-Hello from the secondary branch Creating conflict
