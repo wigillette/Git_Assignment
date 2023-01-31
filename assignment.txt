@@ -1,3 +1,2 @@
-Hello world
+Hello world  - Creating conflict: Will's Edit
 Hello from the secondary branch
-Creating a conflict
